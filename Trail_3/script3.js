@@ -1,4 +1,3 @@
-let form = document.querySelector('form');
 let error = document.querySelector('.error');
 let submit = document.querySelector('.submit-button');
 let reviews = document.querySelectorAll('.review');
